@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195491358084",
+    "project_id": "personal-gallery-72e88",
+    "storage_bucket": "personal-gallery-72e88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195491358084:android:e4a2ea824cfbfce48229d1",
+        "android_client_info": {
+          "package_name": "com.example.personal_gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmaqkqgP0QsE_qBhdaKMqJIeJSUIr78Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
