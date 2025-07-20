@@ -81,13 +81,6 @@ lib/
 - Action buttons (share, info, save)
 - Smooth navigation and hero animations
 
-## Demo Mode
-Currently running in demo mode with:
-- Sample images from Lorem Picsum
-- Local state management
-- Simulated upload delays
-- Mock data persistence
-
 ## Production Setup
 To use with real Firebase:
 1. Create Firebase project
@@ -140,8 +133,7 @@ To use with real Firebase:
 - Cloud backup and sync
 
 ---
-
-**Developed for:** Internship Assessment  
+ 
 **Timeline:** July 19-20, 2025  
 **Status:** ✅ Complete and Ready for Demo
 
